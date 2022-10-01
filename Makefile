@@ -1,7 +1,7 @@
 #
-# tmr_demo.mak
+# metronome.mak
 #
-# Demonstrating a 1 second timer
+# Demonstrating a musical DAW that originated from a simple metronome program
 #
 # NOTE: for educational purposes only. For real work, use 
 # devkitPro's templates ( $(DEVKITPRO)/examples/gba/template )
