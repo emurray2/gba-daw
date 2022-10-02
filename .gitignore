@@ -1,3 +1,7 @@
+# GBA Binary Files
+*.elf
+*.gba
+
 # Prerequisites
 *.d
 
