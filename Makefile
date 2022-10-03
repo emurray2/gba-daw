@@ -64,7 +64,7 @@ ARCH    := -mthumb-interwork -mthumb
 RARCH   := -mthumb-interwork -mthumb
 IARCH   := -mthumb-interwork -marm
 
-CXXBASE   := $(INCLUDE) -O2 -Wall -fno-strict-aliasing
+CXXBASE   := $(INCLUDE) -O2 -Wall -fno-strict-aliasing -std=c++20
 RCXXFLAGS := $(CXXBASE) $(RARCH)
 ICXXFLAGS := $(CXXBASE) $(IARCH) -mlong-calls
 CXXFLAGS  := $(RCXXFLAGS)
