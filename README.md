@@ -1,6 +1,10 @@
 # gba-daw
 A small Digital Audio Workstation for the Gameboy Advance
 
+
+[![Gameboy Advance Tone Row Generator](http://img.youtube.com/vi/htahcGRbNcc/0.jpg)](http://www.youtube.com/watch?v=htahcGRbNcc "Gameboy Advance Tone Row Generator")
+
+
 # Features
 - Metronome with BPM
 - Tone-row generator
