@@ -140,7 +140,7 @@ int main() {
     int kick[12] = {1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0};
     // Second kick hit is a lower pitch (different timbre)
     int kick_timbre[12] = {0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0};
-    // Array for
+    // Array for octaves of each beat, makes switching octaves convenient
     int octaves[12] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
 
     init_display();
